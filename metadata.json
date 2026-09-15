@@ -1,0 +1,6 @@
+{
+  "name": "Social AI",
+  "description": "Social AI by Social Info Tech - an intelligent AI assistant powered by free models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
